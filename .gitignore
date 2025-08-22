@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+__pycache__/*
+*.pyc
+*.pyo
+*.pyd
+
+*.sqlite3
+
+# Envs & local config
+venv/
+venv/*
+.venv/
+.venv/*
+.env
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+student_board.db
